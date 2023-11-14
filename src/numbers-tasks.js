@@ -189,7 +189,7 @@ function roundToPowerOfTen(num, pow) {
  * See: https://en.wikipedia.org/wiki/Primality_test
  *
  * @param {number} n
- * @return {bool}
+ * @return {boolean}
  *
  * @example:
  *   4 => false
@@ -343,7 +343,7 @@ function getSine(num) {
  *
  * @param {number} number
  * @param {number} base
- * @return {number}
+ * @return {string}
  *
  * @example:
  * 255, 16 => 'ff'
